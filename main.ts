@@ -299,6 +299,7 @@ let old_man_pic = img`
 `
 let oms = sprites.create(old_man_pic, SpriteKind.OldMan)
 let old_man = new NPC(oms, 'initial')
+tiles.placeOnRandomTile(old_man.sprite, assets.tile`bush`)
 let smap: { [key: number]: NPC } = {};
 smap[SpriteKind.OldMan] = old_man
 
