@@ -4,6 +4,16 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "drop"
     },
+    "image2": {
+        "data": "hwQQABgAAAAAAADw///////MDAAAy/xvxrvb3d29zQ+w3btrtrvd3d3bzfvbvczMvGYRERHbzfvbG83dbNYRERHdzQ/cGxvRaxYREdHdzQvcGxsRaxYREbHdzQvcGxsRaxYREbHdzQvcGxsRaxYREbHdzQvcGxsRaxYREbHdzQvcGxvRaxYREdHdzQsbG83dbNYRERHdzQ/bvczMvGYRERHbzfuw3btrtrvd3d3bzfsAy/xvxrvb3d29zQ8AAADw///////PDAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bed"
+    },
+    "image3": {
+        "data": "hwQQABYAAAAAAAAAAAAAAAAAAAAAu7u7u7vMu7u7CwCwEd3d3d3Ly8y8AAAbEc3MzNzL27u8AAAbEWxmZsbL27u8AAAbEWzRZsbL27u8AAAbEWxtZsbL27u8AAAbEWxmZsbL27u8AAAbEWxmZsbL27u8AAAbEWxmZsbL27u8AAAbEWxmZsbL27u8AAAbEWxmZsbL27u8AAAbEc3MzNzL27u8AACwEd3d3d3L28y8AAAAu7u7u7vMu7u7CwAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tv"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",
