@@ -13,56 +13,31 @@ namespace myImages {
 . 9 9 9 9 . 
 `;
             case "image2":
-            case "bed":return img`
-...bbccccccbb...
-..bdddddddd1db..
-.bddbbbbbbbbddb.
-.cdb11111111bdc.
-.cbcdbbbbbbdcbc.
-.fbcc111111ccbf.
-.fbcd111111dcbf.
-f66cdd1111ddc66f
-f66ccbbbbbbcc66f
-fcbb66666666bbcf
-fbb6666666666bbf
-fbb6d111111d6bbf
-fbd1111111111dbf
-fdd1111111111ddf
-fdd1111111111ddf
-fdd1111111111ddf
-fdd1111111111ddf
-fdd11dbbbbd11ddf
-cdbbddddddddbbdf
-cbddddddddddddbc
-cddddddddddddddc
-.cccccccccccccc.
-.fbbfbbbbbbfbbf.
-..ff........ff..
-`;
-            case "image3":
-            case "tv":return img`
-...bbbbbbbbbb...
-..b1111111111b..
-.b111111111111b.
-.b111111111111b.
-.bddccccccccddb.
-.bdc66666666cdb.
-.bdc61d66666cdb.
-.bdc6d666666cdb.
-.bdc66666666cdb.
-.bdc66666666cdb.
-.bdc66666666cdb.
-.bddccccccccddb.
-.cbbbbbbbbbbbbc.
-.cccccccccccccc.
-.bbbbbbbbbbbbbb.
-.bcdddddddddddb.
-.bcbbbbbbbbbbcb.
-.bcbbbbbbbbbbcb.
-.bccccccccccccb.
-.bbbbbbbbbbbbbb.
-.b............b.
-................
+            case "myImage":return img`
+..cccc.........
+.cdddbc........
+cbdddbccccccc..
+cbdddbcbdddddc.
+cbdddbcdddddbbc
+cbdddbcbbbbbbbc
+cbdddbccccccbbc
+cbdddbcddddbccc
+cbdddbcdddddbc.
+cbdddbcdddddbc.
+cbdddbcdddddbc.
+cbdddbcdddddbc.
+cbdddbcdddddbc.
+cbdddbcdddddbc.
+cbdddbcdddddbc.
+cbddbbcdddddbc.
+cbbbbbcccccccc.
+cbbbbbcbdddddc.
+cbbbbbcdddddbbc
+cbbbbbcbbbbbbbc
+cbbbbbcbbbbbbbc
+cbbbbbcbbbbbbbc
+.cccccccccccccc
+.cbbc.....cbbc.
 `;
         }
         return null;
