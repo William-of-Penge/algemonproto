@@ -4,6 +4,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "drop"
     },
+    "image2": {
+        "data": "hwQPABgAAAAAzMzMzMzMzMzMzADAu7u7u7u7u7u7u8zc3d3d3d3d3bu7u7zc3d3d3d3d3bu7u7zc3d3d3d3dvbu7u8y8u7u7u7u7u7u7uwzAzMzMzMzMzMzMzAwAvL3c3d3d3by9uwwA3L3c3d3d3dy9uwwA3L3c3d3d3dy9uwwA3L3c3d3d3dy9u8wA3L283d3d3dy9u7wA3LvLu7u7u9y7u7wAwLvLzMzMzMy7u8wAAMzMAAAAAADMzAw=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",

@@ -12,6 +12,33 @@ namespace myImages {
 9 8 9 9 9 9 
 . 9 9 9 9 . 
 `;
+            case "image2":
+            case "myImage":return img`
+..cccc.........
+.cdddbc........
+cbdddbccccccc..
+cbdddbcbdddddc.
+cbdddbcdddddbbc
+cbdddbcbbbbbbbc
+cbdddbccccccbbc
+cbdddbcddddbccc
+cbdddbcdddddbc.
+cbdddbcdddddbc.
+cbdddbcdddddbc.
+cbdddbcdddddbc.
+cbdddbcdddddbc.
+cbdddbcdddddbc.
+cbdddbcdddddbc.
+cbddbbcdddddbc.
+cbbbbbcccccccc.
+cbbbbbcbdddddc.
+cbbbbbcdddddbbc
+cbbbbbcbbbbbbbc
+cbbbbbcbbbbbbbc
+cbbbbbcbbbbbbbc
+.cccccccccccccc
+.cbbc.....cbbc.
+`;
         }
         return null;
     })
